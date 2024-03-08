@@ -10,7 +10,7 @@ namespace TestProject
     {
         public static string Message()
         {
-            return "Welcome in the app Marin";
+            return "Welcome in the app Victor";
         }
     }
 }
