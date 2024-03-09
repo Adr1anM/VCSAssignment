@@ -3,7 +3,7 @@ using TestProject;
 
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Hello Amdaris");
+Console.WriteLine("Hello Amdaris , i'm glad to be here");
 
 string message = LogInMessage.Message();
 
